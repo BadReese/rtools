@@ -1,6 +1,7 @@
 name: rtools
 description: A new Flutter package project.
 version: 0.0.1
+homepage: https://github.com/BadReese/rtools
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
